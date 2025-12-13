@@ -87,7 +87,7 @@ function BusMap() {
     const headers = {
       Accepted: 'application/json',
     };
-    // Dev environment prefix with "http://localhost:9090"
+    // Dev environment prefix: "http://localhost:9090"
     const response = await fetch('/hub/bus_stop', {
       method: 'GET',
       headers,
@@ -109,7 +109,7 @@ function BusMap() {
     const headers = {
       Accepted: 'application/json',
     };
-    // Dev environment prefix with "http://localhost:9090"
+    // Dev environment prefix: "http://localhost:9090"
     const response = await fetch('/hub/bus', {
       method: 'GET',
       headers,
@@ -127,7 +127,7 @@ function BusMap() {
     const headers = {
       Accepted: 'application/json',
     };
-    // Dev environment prefix with "http://localhost:9090"
+    // Dev environment prefix: "http://localhost:9090"
     const response = await fetch('/hub/bus/' + busId + '/time_table', {
       method: 'GET',
       headers,
@@ -229,7 +229,7 @@ function BusMap() {
         console.log('Cannot retrieve the Bus entries ' + err.message);
       });
 
-    // Dev environment: prefix with "http://localhost:8080"
+    // Dev environment: prefix: "http://localhost:8080"
     const busPositionEventSource = new EventSource('/api/bus/position');
     busPositionEventSource.onmessage = (event) => {
       if (event.data) {
