@@ -1,9 +1,9 @@
 import { useEffect, useState, useRef } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, CircleMarker } from 'react-leaflet';
 import L, { type LatLngTuple } from 'leaflet';
-import iconUrl from "leaflet/dist/images/marker-icon.png";
-import iconRetinaUrl from "leaflet/dist/images/marker-icon-2x.png";
-import shadowUrl from "leaflet/dist/images/marker-shadow.png";
+import iconUrl from 'leaflet/dist/images/marker-icon.png';
+import iconRetinaUrl from 'leaflet/dist/images/marker-icon-2x.png';
+import shadowUrl from 'leaflet/dist/images/marker-shadow.png';
 
 function BusMap() {
   interface BusPosition {
@@ -191,12 +191,14 @@ function BusMap() {
   };
 
   const getBuStopName = (busPosition: BusPositionDisplay): string => {
-    const busStopEntry = busStopEntries.filter((be: BusStopDisplay) => (busPosition.nextBusStopId === be.id))
-    if(busStopEntry.length > 0) {
+    const busStopEntry = busStopEntries.filter(
+      (be: BusStopDisplay) => busPosition.nextBusStopId === be.id,
+    );
+    if (busStopEntry.length > 0) {
       return busStopEntry[0].name;
     }
     return busPosition.nextBusStopId;
-  }
+  };
 
   useEffect(() => {
     L.Icon.Default.mergeOptions({
@@ -331,7 +333,11 @@ function BusMap() {
               </div>
               <div className="popup-row">
                 <span className="label">Status:</span>
-                {b.isBusStop ? <span className="value">Onboarding</span> : <span className="value">Moving</span>}
+                {b.isBusStop ? (
+                  <span className="value">Onboarding</span>
+                ) : (
+                  <span className="value">Moving</span>
+                )}
               </div>
             </div>
           </Popup>
