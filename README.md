@@ -1,6 +1,6 @@
 # Bus Map Simulation Application
 
-<img src="https://github.com/sitMCella/bus-map-simulation/wiki/images/bus_simulation.png" width="500">
+<img src="https://github.com/sitMCella/bus-map-simulation/wiki/images/bus_simulation.png">
 
 ## Table of contents
 
