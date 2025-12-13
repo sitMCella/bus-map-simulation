@@ -1,0 +1,5858 @@
+[
+  {
+    "longitude": "12.52975",
+    "latitude": "41.9096",
+    "next_bus_stop_id": "1",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52975",
+    "latitude": "41.9096",
+    "next_bus_stop_id": "1",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52975",
+    "latitude": "41.9096",
+    "next_bus_stop_id": "1",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.5298",
+    "latitude": "41.90952",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5298",
+    "latitude": "41.90944",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52978",
+    "latitude": "41.90937",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52979",
+    "latitude": "41.9093",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5298",
+    "latitude": "41.90918",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52977",
+    "latitude": "41.90911",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52953",
+    "latitude": "41.90891",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52941",
+    "latitude": "41.90887",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52904",
+    "latitude": "41.90873",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52883",
+    "latitude": "41.90866",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5287",
+    "latitude": "41.90861",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52861",
+    "latitude": "41.90859",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52796",
+    "latitude": "41.90855",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5274",
+    "latitude": "41.90851",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52735",
+    "latitude": "41.90851",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5273",
+    "latitude": "41.9085",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52708",
+    "latitude": "41.90841",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52703",
+    "latitude": "41.90829",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52704",
+    "latitude": "41.90821",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52704",
+    "latitude": "41.9082",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52718",
+    "latitude": "41.90808",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52721",
+    "latitude": "41.90807",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52781",
+    "latitude": "41.90808",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5296",
+    "latitude": "41.90815",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53016",
+    "latitude": "41.90816",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53163",
+    "latitude": "41.90813",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53179",
+    "latitude": "41.90812",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53426",
+    "latitude": "41.90805",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53425",
+    "latitude": "41.90808",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53426",
+    "latitude": "41.90805",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53429",
+    "latitude": "41.90795",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53425",
+    "latitude": "41.90813",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53426",
+    "latitude": "41.9082",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53357",
+    "latitude": "41.90826",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53273",
+    "latitude": "41.90827",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53206",
+    "latitude": "41.90828",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53194",
+    "latitude": "41.90828",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.53175",
+    "latitude": "41.9083",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52959",
+    "latitude": "41.90861",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52933",
+    "latitude": "41.90864",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52925",
+    "latitude": "41.90865",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.529",
+    "latitude": "41.90867",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52768",
+    "latitude": "41.90864",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52739",
+    "latitude": "41.9086",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52712",
+    "latitude": "41.90855",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52701",
+    "latitude": "41.90853",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52631",
+    "latitude": "41.9083",
+    "next_bus_stop_id": "2",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52589",
+    "latitude": "41.90815",
+    "next_bus_stop_id": "2",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52589",
+    "latitude": "41.90815",
+    "next_bus_stop_id": "2",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52589",
+    "latitude": "41.90815",
+    "next_bus_stop_id": "2",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52571",
+    "latitude": "41.90809",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5253",
+    "latitude": "41.90795",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52521",
+    "latitude": "41.90793",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52513",
+    "latitude": "41.9079",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52484",
+    "latitude": "41.90779",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52458",
+    "latitude": "41.90768",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52444",
+    "latitude": "41.90762",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5243",
+    "latitude": "41.90755",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52411",
+    "latitude": "41.90743",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52391",
+    "latitude": "41.90731",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52367",
+    "latitude": "41.90715",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52349",
+    "latitude": "41.90703",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52332",
+    "latitude": "41.90689",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52316",
+    "latitude": "41.90677",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.523",
+    "latitude": "41.90663",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52287",
+    "latitude": "41.9065",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52273",
+    "latitude": "41.90637",
+    "next_bus_stop_id": "3",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52228",
+    "latitude": "41.90594",
+    "next_bus_stop_id": "3",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52228",
+    "latitude": "41.90594",
+    "next_bus_stop_id": "3",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52228",
+    "latitude": "41.90594",
+    "next_bus_stop_id": "3",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52222",
+    "latitude": "41.90588",
+    "next_bus_stop_id": "4",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52213",
+    "latitude": "41.9058",
+    "next_bus_stop_id": "4",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52166",
+    "latitude": "41.90535",
+    "next_bus_stop_id": "4",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52102",
+    "latitude": "41.9047",
+    "next_bus_stop_id": "4",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52074",
+    "latitude": "41.90441",
+    "next_bus_stop_id": "4",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52044",
+    "latitude": "41.90405",
+    "next_bus_stop_id": "4",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52032",
+    "latitude": "41.90391",
+    "next_bus_stop_id": "4",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52032",
+    "latitude": "41.90391",
+    "next_bus_stop_id": "4",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52032",
+    "latitude": "41.90391",
+    "next_bus_stop_id": "4",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.52031",
+    "latitude": "41.9039",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52029",
+    "latitude": "41.90386",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52011",
+    "latitude": "41.90357",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52011",
+    "latitude": "41.90357",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.52004",
+    "latitude": "41.9035",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51998",
+    "latitude": "41.90344",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51994",
+    "latitude": "41.9034",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51968",
+    "latitude": "41.90307",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51966",
+    "latitude": "41.90305",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51964",
+    "latitude": "41.90303",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51962",
+    "latitude": "41.90301",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51961",
+    "latitude": "41.903",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51954",
+    "latitude": "41.90293",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5195",
+    "latitude": "41.90289",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5194",
+    "latitude": "41.90282",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5194",
+    "latitude": "41.90282",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51934",
+    "latitude": "41.90279",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51932",
+    "latitude": "41.90278",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5193",
+    "latitude": "41.90277",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51916",
+    "latitude": "41.90272",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51907",
+    "latitude": "41.90267",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51881",
+    "latitude": "41.90236",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51869",
+    "latitude": "41.90219",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51851",
+    "latitude": "41.90201",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51848",
+    "latitude": "41.90199",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51843",
+    "latitude": "41.90195",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5184",
+    "latitude": "41.90193",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51837",
+    "latitude": "41.90191",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51832",
+    "latitude": "41.90189",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5182",
+    "latitude": "41.90185",
+    "next_bus_stop_id": "5",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5178",
+    "latitude": "41.90171",
+    "next_bus_stop_id": "5",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.5178",
+    "latitude": "41.90171",
+    "next_bus_stop_id": "5",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.5178",
+    "latitude": "41.90171",
+    "next_bus_stop_id": "5",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51698",
+    "latitude": "41.90143",
+    "next_bus_stop_id": "6",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51692",
+    "latitude": "41.90141",
+    "next_bus_stop_id": "6",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51688",
+    "latitude": "41.9014",
+    "next_bus_stop_id": "6",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51679",
+    "latitude": "41.90137",
+    "next_bus_stop_id": "6",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51614",
+    "latitude": "41.90114",
+    "next_bus_stop_id": "6",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51577",
+    "latitude": "41.90101",
+    "next_bus_stop_id": "6",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51577",
+    "latitude": "41.90101",
+    "next_bus_stop_id": "6",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51577",
+    "latitude": "41.90101",
+    "next_bus_stop_id": "6",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51473",
+    "latitude": "41.90065",
+    "next_bus_stop_id": "7",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51465",
+    "latitude": "41.90063",
+    "next_bus_stop_id": "7",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51392",
+    "latitude": "41.90039",
+    "next_bus_stop_id": "7",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5138",
+    "latitude": "41.90036",
+    "next_bus_stop_id": "7",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51375",
+    "latitude": "41.90034",
+    "next_bus_stop_id": "7",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51371",
+    "latitude": "41.90033",
+    "next_bus_stop_id": "7",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51361",
+    "latitude": "41.90029",
+    "next_bus_stop_id": "7",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51358",
+    "latitude": "41.90028",
+    "next_bus_stop_id": "7",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51309",
+    "latitude": "41.9001",
+    "next_bus_stop_id": "7",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51309",
+    "latitude": "41.9001",
+    "next_bus_stop_id": "7",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51309",
+    "latitude": "41.9001",
+    "next_bus_stop_id": "7",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51307",
+    "latitude": "41.90009",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51233",
+    "latitude": "41.89981",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51225",
+    "latitude": "41.89978",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51141",
+    "latitude": "41.89947",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51138",
+    "latitude": "41.89945",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51134",
+    "latitude": "41.89943",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51131",
+    "latitude": "41.89942",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51129",
+    "latitude": "41.8994",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51125",
+    "latitude": "41.89937",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51108",
+    "latitude": "41.89931",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51096",
+    "latitude": "41.89927",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51087",
+    "latitude": "41.89923",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51073",
+    "latitude": "41.89918",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51067",
+    "latitude": "41.89917",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51065",
+    "latitude": "41.89917",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51061",
+    "latitude": "41.89916",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51058",
+    "latitude": "41.89915",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51056",
+    "latitude": "41.89914",
+    "next_bus_stop_id": "8",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.51032",
+    "latitude": "41.89906",
+    "next_bus_stop_id": "8",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51032",
+    "latitude": "41.89906",
+    "next_bus_stop_id": "8",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.51032",
+    "latitude": "41.89906",
+    "next_bus_stop_id": "8",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.5103",
+    "latitude": "41.89905",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50995",
+    "latitude": "41.89892",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50989",
+    "latitude": "41.8989",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50985",
+    "latitude": "41.89889",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50981",
+    "latitude": "41.89887",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50977",
+    "latitude": "41.89886",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50973",
+    "latitude": "41.89885",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50969",
+    "latitude": "41.89884",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50969",
+    "latitude": "41.89884",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50964",
+    "latitude": "41.89892",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50934",
+    "latitude": "41.89939",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50902",
+    "latitude": "41.8999",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50882",
+    "latitude": "41.90021",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50865",
+    "latitude": "41.9005",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50862",
+    "latitude": "41.90055",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50859",
+    "latitude": "41.9006",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50859",
+    "latitude": "41.9006",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50836",
+    "latitude": "41.90056",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50832",
+    "latitude": "41.90055",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50824",
+    "latitude": "41.90053",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50824",
+    "latitude": "41.90053",
+    "next_bus_stop_id": "9",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50818",
+    "latitude": "41.90064",
+    "next_bus_stop_id": "9",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50818",
+    "latitude": "41.90064",
+    "next_bus_stop_id": "9",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50818",
+    "latitude": "41.90064",
+    "next_bus_stop_id": "9",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50817",
+    "latitude": "41.90066",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50811",
+    "latitude": "41.90076",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50804",
+    "latitude": "41.90089",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50798",
+    "latitude": "41.90101",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50794",
+    "latitude": "41.90108",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50792",
+    "latitude": "41.90112",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50748",
+    "latitude": "41.90194",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50717",
+    "latitude": "41.90251",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50711",
+    "latitude": "41.90261",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50709",
+    "latitude": "41.90265",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50701",
+    "latitude": "41.90277",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50696",
+    "latitude": "41.90287",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50694",
+    "latitude": "41.90291",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50691",
+    "latitude": "41.90297",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5069",
+    "latitude": "41.90299",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50689",
+    "latitude": "41.90301",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50688",
+    "latitude": "41.90304",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50688",
+    "latitude": "41.90306",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50687",
+    "latitude": "41.90309",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50687",
+    "latitude": "41.90312",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50687",
+    "latitude": "41.90315",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50686",
+    "latitude": "41.90317",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50686",
+    "latitude": "41.9032",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50687",
+    "latitude": "41.90343",
+    "next_bus_stop_id": "10",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50687",
+    "latitude": "41.90347",
+    "next_bus_stop_id": "10",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50687",
+    "latitude": "41.90347",
+    "next_bus_stop_id": "10",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50687",
+    "latitude": "41.90347",
+    "next_bus_stop_id": "10",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50686",
+    "latitude": "41.90352",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50686",
+    "latitude": "41.90378",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50686",
+    "latitude": "41.90381",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50686",
+    "latitude": "41.90383",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50686",
+    "latitude": "41.90385",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50685",
+    "latitude": "41.90387",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50684",
+    "latitude": "41.90389",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50683",
+    "latitude": "41.90391",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50682",
+    "latitude": "41.90393",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50681",
+    "latitude": "41.90395",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50679",
+    "latitude": "41.90397",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50677",
+    "latitude": "41.90399",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50675",
+    "latitude": "41.90401",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50665",
+    "latitude": "41.9041",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50655",
+    "latitude": "41.90419",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50651",
+    "latitude": "41.90423",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50647",
+    "latitude": "41.90427",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50644",
+    "latitude": "41.9043",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50639",
+    "latitude": "41.90434",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50637",
+    "latitude": "41.90438",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50634",
+    "latitude": "41.90441",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50632",
+    "latitude": "41.90445",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5063",
+    "latitude": "41.90447",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50629",
+    "latitude": "41.9045",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50627",
+    "latitude": "41.90453",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50605",
+    "latitude": "41.90499",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50595",
+    "latitude": "41.90521",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50581",
+    "latitude": "41.90552",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50567",
+    "latitude": "41.90582",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50562",
+    "latitude": "41.90592",
+    "next_bus_stop_id": "11",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50557",
+    "latitude": "41.90604",
+    "next_bus_stop_id": "11",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50557",
+    "latitude": "41.90604",
+    "next_bus_stop_id": "11",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50557",
+    "latitude": "41.90604",
+    "next_bus_stop_id": "11",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50555",
+    "latitude": "41.90608",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50549",
+    "latitude": "41.90622",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50549",
+    "latitude": "41.90622",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50543",
+    "latitude": "41.90619",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50535",
+    "latitude": "41.90614",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5053",
+    "latitude": "41.90611",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50456",
+    "latitude": "41.90565",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50452",
+    "latitude": "41.90562",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50402",
+    "latitude": "41.90531",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5039",
+    "latitude": "41.90524",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50382",
+    "latitude": "41.90519",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50378",
+    "latitude": "41.90517",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50316",
+    "latitude": "41.9048",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50309",
+    "latitude": "41.90476",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50309",
+    "latitude": "41.90476",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50307",
+    "latitude": "41.90477",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50303",
+    "latitude": "41.90479",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.503",
+    "latitude": "41.90481",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50296",
+    "latitude": "41.90483",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50292",
+    "latitude": "41.90484",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50289",
+    "latitude": "41.90485",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50287",
+    "latitude": "41.90485",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50282",
+    "latitude": "41.90486",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5028",
+    "latitude": "41.90486",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50275",
+    "latitude": "41.90485",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50272",
+    "latitude": "41.90485",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50268",
+    "latitude": "41.90484",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50264",
+    "latitude": "41.90482",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50261",
+    "latitude": "41.90481",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50259",
+    "latitude": "41.90481",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50256",
+    "latitude": "41.90479",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50254",
+    "latitude": "41.90478",
+    "next_bus_stop_id": "12",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50249",
+    "latitude": "41.90475",
+    "next_bus_stop_id": "12",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50249",
+    "latitude": "41.90475",
+    "next_bus_stop_id": "12",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50249",
+    "latitude": "41.90475",
+    "next_bus_stop_id": "12",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50246",
+    "latitude": "41.90473",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50231",
+    "latitude": "41.90465",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50221",
+    "latitude": "41.90458",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50211",
+    "latitude": "41.90453",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50201",
+    "latitude": "41.90447",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50194",
+    "latitude": "41.90443",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50189",
+    "latitude": "41.90438",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50184",
+    "latitude": "41.90433",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50182",
+    "latitude": "41.9043",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5018",
+    "latitude": "41.90428",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50179",
+    "latitude": "41.90424",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50178",
+    "latitude": "41.90421",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50177",
+    "latitude": "41.90418",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50177",
+    "latitude": "41.90414",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50177",
+    "latitude": "41.90409",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50182",
+    "latitude": "41.90404",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50182",
+    "latitude": "41.90404",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50169",
+    "latitude": "41.90397",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50104",
+    "latitude": "41.90356",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50101",
+    "latitude": "41.90354",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50101",
+    "latitude": "41.90354",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50098",
+    "latitude": "41.90356",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50095",
+    "latitude": "41.90355",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50084",
+    "latitude": "41.90363",
+    "next_bus_stop_id": "13",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50032",
+    "latitude": "41.90404",
+    "next_bus_stop_id": "13",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50032",
+    "latitude": "41.90404",
+    "next_bus_stop_id": "13",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50032",
+    "latitude": "41.90404",
+    "next_bus_stop_id": "13",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50032",
+    "latitude": "41.90405",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50012",
+    "latitude": "41.90421",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50009",
+    "latitude": "41.90423",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50011",
+    "latitude": "41.90424",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50008",
+    "latitude": "41.90427",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50005",
+    "latitude": "41.90429",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50003",
+    "latitude": "41.9043",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49964",
+    "latitude": "41.90462",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49962",
+    "latitude": "41.90464",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49959",
+    "latitude": "41.90466",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49933",
+    "latitude": "41.90488",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4993",
+    "latitude": "41.9049",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49927",
+    "latitude": "41.90492",
+    "next_bus_stop_id": "14",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49892",
+    "latitude": "41.90521",
+    "next_bus_stop_id": "14",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49892",
+    "latitude": "41.90521",
+    "next_bus_stop_id": "14",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49892",
+    "latitude": "41.90521",
+    "next_bus_stop_id": "14",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49892",
+    "latitude": "41.90522",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49883",
+    "latitude": "41.90529",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49881",
+    "latitude": "41.90532",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49881",
+    "latitude": "41.90532",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49877",
+    "latitude": "41.9053",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4987",
+    "latitude": "41.90527",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4987",
+    "latitude": "41.90527",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49857",
+    "latitude": "41.90538",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49857",
+    "latitude": "41.90538",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49879",
+    "latitude": "41.90554",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49948",
+    "latitude": "41.90601",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49989",
+    "latitude": "41.90629",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49992",
+    "latitude": "41.90631",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49999",
+    "latitude": "41.90636",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5001",
+    "latitude": "41.90643",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.5005",
+    "latitude": "41.90671",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50051",
+    "latitude": "41.90671",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50058",
+    "latitude": "41.90676",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50066",
+    "latitude": "41.90681",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50131",
+    "latitude": "41.90725",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50137",
+    "latitude": "41.9073",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50137",
+    "latitude": "41.9073",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50131",
+    "latitude": "41.90734",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50068",
+    "latitude": "41.90785",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50063",
+    "latitude": "41.90789",
+    "next_bus_stop_id": "15",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.50053",
+    "latitude": "41.90797",
+    "next_bus_stop_id": "15",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50053",
+    "latitude": "41.90797",
+    "next_bus_stop_id": "15",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50053",
+    "latitude": "41.90797",
+    "next_bus_stop_id": "15",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.50052",
+    "latitude": "41.90798",
+    "next_bus_stop_id": "16",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49998",
+    "latitude": "41.90841",
+    "next_bus_stop_id": "16",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49935",
+    "latitude": "41.90797",
+    "next_bus_stop_id": "16",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49921",
+    "latitude": "41.90787",
+    "next_bus_stop_id": "16",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49908",
+    "latitude": "41.90777",
+    "next_bus_stop_id": "16",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49873",
+    "latitude": "41.9075",
+    "next_bus_stop_id": "16",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49855",
+    "latitude": "41.90738",
+    "next_bus_stop_id": "16",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49814",
+    "latitude": "41.90709",
+    "next_bus_stop_id": "16",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49814",
+    "latitude": "41.90709",
+    "next_bus_stop_id": "16",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49814",
+    "latitude": "41.90709",
+    "next_bus_stop_id": "16",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49805",
+    "latitude": "41.90702",
+    "next_bus_stop_id": "17",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49798",
+    "latitude": "41.90698",
+    "next_bus_stop_id": "17",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49735",
+    "latitude": "41.90654",
+    "next_bus_stop_id": "17",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49725",
+    "latitude": "41.90647",
+    "next_bus_stop_id": "17",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49651",
+    "latitude": "41.90597",
+    "next_bus_stop_id": "17",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49644",
+    "latitude": "41.90592",
+    "next_bus_stop_id": "17",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49644",
+    "latitude": "41.90592",
+    "next_bus_stop_id": "17",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49644",
+    "latitude": "41.90592",
+    "next_bus_stop_id": "17",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49602",
+    "latitude": "41.90563",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49584",
+    "latitude": "41.90552",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49582",
+    "latitude": "41.9055",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49578",
+    "latitude": "41.90548",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49575",
+    "latitude": "41.90546",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49572",
+    "latitude": "41.90543",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49569",
+    "latitude": "41.90542",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49563",
+    "latitude": "41.90537",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49539",
+    "latitude": "41.90519",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49515",
+    "latitude": "41.90504",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49436",
+    "latitude": "41.90452",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49425",
+    "latitude": "41.90444",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49425",
+    "latitude": "41.90444",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49422",
+    "latitude": "41.90447",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49416",
+    "latitude": "41.90452",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49381",
+    "latitude": "41.90483",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49378",
+    "latitude": "41.90486",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49374",
+    "latitude": "41.90489",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49371",
+    "latitude": "41.90491",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49368",
+    "latitude": "41.90492",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49366",
+    "latitude": "41.90494",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49364",
+    "latitude": "41.90495",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49357",
+    "latitude": "41.90498",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49354",
+    "latitude": "41.90499",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4935",
+    "latitude": "41.905",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49346",
+    "latitude": "41.90501",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49343",
+    "latitude": "41.90502",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49322",
+    "latitude": "41.90508",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49313",
+    "latitude": "41.9051",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49305",
+    "latitude": "41.90512",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49305",
+    "latitude": "41.90512",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49276",
+    "latitude": "41.90521",
+    "next_bus_stop_id": "18",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49266",
+    "latitude": "41.90525",
+    "next_bus_stop_id": "18",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49266",
+    "latitude": "41.90525",
+    "next_bus_stop_id": "18",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49266",
+    "latitude": "41.90525",
+    "next_bus_stop_id": "18",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.49264",
+    "latitude": "41.90526",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49222",
+    "latitude": "41.9054",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49221",
+    "latitude": "41.9054",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49139",
+    "latitude": "41.90568",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49131",
+    "latitude": "41.9057",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49124",
+    "latitude": "41.90573",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49119",
+    "latitude": "41.90575",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49113",
+    "latitude": "41.90577",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49109",
+    "latitude": "41.9058",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49104",
+    "latitude": "41.90582",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49098",
+    "latitude": "41.90587",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49098",
+    "latitude": "41.90587",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49092",
+    "latitude": "41.90584",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49085",
+    "latitude": "41.90582",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49084",
+    "latitude": "41.90581",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4908",
+    "latitude": "41.90579",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49076",
+    "latitude": "41.90576",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49035",
+    "latitude": "41.90548",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49025",
+    "latitude": "41.9054",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49018",
+    "latitude": "41.90534",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.49009",
+    "latitude": "41.90527",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48997",
+    "latitude": "41.90518",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48972",
+    "latitude": "41.90498",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48955",
+    "latitude": "41.90484",
+    "next_bus_stop_id": "19",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48889",
+    "latitude": "41.9043",
+    "next_bus_stop_id": "19",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48889",
+    "latitude": "41.9043",
+    "next_bus_stop_id": "19",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48889",
+    "latitude": "41.9043",
+    "next_bus_stop_id": "19",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48887",
+    "latitude": "41.90429",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48886",
+    "latitude": "41.90428",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48881",
+    "latitude": "41.90424",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48874",
+    "latitude": "41.90417",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48862",
+    "latitude": "41.90402",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48833",
+    "latitude": "41.90378",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48833",
+    "latitude": "41.90378",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48828",
+    "latitude": "41.90383",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48828",
+    "latitude": "41.90383",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48825",
+    "latitude": "41.90381",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48798",
+    "latitude": "41.90359",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48796",
+    "latitude": "41.90359",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48794",
+    "latitude": "41.90359",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48789",
+    "latitude": "41.90357",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48785",
+    "latitude": "41.90355",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48785",
+    "latitude": "41.90354",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48784",
+    "latitude": "41.9035",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48784",
+    "latitude": "41.9035",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48759",
+    "latitude": "41.90344",
+    "next_bus_stop_id": "20",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48755",
+    "latitude": "41.90343",
+    "next_bus_stop_id": "20",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48755",
+    "latitude": "41.90343",
+    "next_bus_stop_id": "20",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48755",
+    "latitude": "41.90343",
+    "next_bus_stop_id": "20",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48695",
+    "latitude": "41.90328",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48677",
+    "latitude": "41.90323",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48671",
+    "latitude": "41.90322",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48667",
+    "latitude": "41.9032",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48663",
+    "latitude": "41.90319",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48599",
+    "latitude": "41.90302",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4859",
+    "latitude": "41.903",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48586",
+    "latitude": "41.90298",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48586",
+    "latitude": "41.90298",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48581",
+    "latitude": "41.90298",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48579",
+    "latitude": "41.90297",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48574",
+    "latitude": "41.90297",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48571",
+    "latitude": "41.90296",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48566",
+    "latitude": "41.90297",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48563",
+    "latitude": "41.90298",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48559",
+    "latitude": "41.90302",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48557",
+    "latitude": "41.90305",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48555",
+    "latitude": "41.90305",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48552",
+    "latitude": "41.90305",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4855",
+    "latitude": "41.90305",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48549",
+    "latitude": "41.90305",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48545",
+    "latitude": "41.90304",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48541",
+    "latitude": "41.90305",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48541",
+    "latitude": "41.90305",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48536",
+    "latitude": "41.90302",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48534",
+    "latitude": "41.903",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48534",
+    "latitude": "41.903",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48542",
+    "latitude": "41.90293",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48542",
+    "latitude": "41.90293",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48542",
+    "latitude": "41.90292",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48541",
+    "latitude": "41.90289",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48538",
+    "latitude": "41.90287",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48523",
+    "latitude": "41.90283",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48521",
+    "latitude": "41.90281",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48507",
+    "latitude": "41.90278",
+    "next_bus_stop_id": "21",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48446",
+    "latitude": "41.90262",
+    "next_bus_stop_id": "21",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48446",
+    "latitude": "41.90262",
+    "next_bus_stop_id": "21",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48446",
+    "latitude": "41.90262",
+    "next_bus_stop_id": "21",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.4841",
+    "latitude": "41.90253",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4841",
+    "latitude": "41.90253",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48352",
+    "latitude": "41.90284",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48329",
+    "latitude": "41.90288",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48322",
+    "latitude": "41.90289",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48322",
+    "latitude": "41.90289",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48311",
+    "latitude": "41.90278",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48306",
+    "latitude": "41.90275",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48294",
+    "latitude": "41.90271",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4826",
+    "latitude": "41.90263",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48241",
+    "latitude": "41.9026",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4822",
+    "latitude": "41.90256",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48199",
+    "latitude": "41.9025",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48164",
+    "latitude": "41.90238",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48133",
+    "latitude": "41.90227",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48125",
+    "latitude": "41.90224",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48103",
+    "latitude": "41.90214",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48088",
+    "latitude": "41.9021",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48062",
+    "latitude": "41.90202",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48055",
+    "latitude": "41.902",
+    "next_bus_stop_id": "22",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48037",
+    "latitude": "41.90195",
+    "next_bus_stop_id": "22",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48037",
+    "latitude": "41.90195",
+    "next_bus_stop_id": "22",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48037",
+    "latitude": "41.90195",
+    "next_bus_stop_id": "22",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48036",
+    "latitude": "41.90195",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48016",
+    "latitude": "41.90189",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48006",
+    "latitude": "41.90186",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48006",
+    "latitude": "41.90186",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48011",
+    "latitude": "41.90174",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48018",
+    "latitude": "41.90159",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48023",
+    "latitude": "41.90147",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48032",
+    "latitude": "41.90129",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48035",
+    "latitude": "41.90122",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48045",
+    "latitude": "41.90097",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48055",
+    "latitude": "41.90074",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48062",
+    "latitude": "41.90055",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4808",
+    "latitude": "41.90011",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48082",
+    "latitude": "41.90007",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48087",
+    "latitude": "41.89994",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48088",
+    "latitude": "41.89991",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48093",
+    "latitude": "41.89979",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48095",
+    "latitude": "41.89975",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48096",
+    "latitude": "41.89972",
+    "next_bus_stop_id": "23",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48107",
+    "latitude": "41.89945",
+    "next_bus_stop_id": "23",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48107",
+    "latitude": "41.89945",
+    "next_bus_stop_id": "23",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48107",
+    "latitude": "41.89943",
+    "next_bus_stop_id": "23",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48109",
+    "latitude": "41.89939",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48111",
+    "latitude": "41.89932",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48114",
+    "latitude": "41.89925",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48125",
+    "latitude": "41.89897",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48127",
+    "latitude": "41.89894",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48134",
+    "latitude": "41.89876",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48145",
+    "latitude": "41.89848",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48155",
+    "latitude": "41.89822",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48191",
+    "latitude": "41.89736",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48191",
+    "latitude": "41.89735",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48193",
+    "latitude": "41.89732",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4821",
+    "latitude": "41.8969",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48211",
+    "latitude": "41.89687",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48212",
+    "latitude": "41.89684",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48215",
+    "latitude": "41.89681",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48217",
+    "latitude": "41.89676",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48221",
+    "latitude": "41.89668",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48221",
+    "latitude": "41.89668",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48201",
+    "latitude": "41.89663",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48201",
+    "latitude": "41.89663",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48192",
+    "latitude": "41.89661",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48176",
+    "latitude": "41.89658",
+    "next_bus_stop_id": "24",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48062",
+    "latitude": "41.89634",
+    "next_bus_stop_id": "24",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48062",
+    "latitude": "41.89634",
+    "next_bus_stop_id": "24",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48062",
+    "latitude": "41.89634",
+    "next_bus_stop_id": "24",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.48059",
+    "latitude": "41.89633",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48036",
+    "latitude": "41.89629",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.48024",
+    "latitude": "41.89626",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47995",
+    "latitude": "41.89618",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47959",
+    "latitude": "41.89609",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47928",
+    "latitude": "41.89602",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47919",
+    "latitude": "41.896",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47919",
+    "latitude": "41.896",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47895",
+    "latitude": "41.89599",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47885",
+    "latitude": "41.89599",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47882",
+    "latitude": "41.89598",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47863",
+    "latitude": "41.89597",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47848",
+    "latitude": "41.89596",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47781",
+    "latitude": "41.89595",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47742",
+    "latitude": "41.89594",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47742",
+    "latitude": "41.89594",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47737",
+    "latitude": "41.89596",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4773",
+    "latitude": "41.89598",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47718",
+    "latitude": "41.896",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47708",
+    "latitude": "41.89602",
+    "next_bus_stop_id": "25",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47684",
+    "latitude": "41.89608",
+    "next_bus_stop_id": "25",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47684",
+    "latitude": "41.89608",
+    "next_bus_stop_id": "25",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47684",
+    "latitude": "41.89608",
+    "next_bus_stop_id": "25",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47681",
+    "latitude": "41.89608",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47648",
+    "latitude": "41.89616",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47643",
+    "latitude": "41.89617",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47636",
+    "latitude": "41.89619",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47636",
+    "latitude": "41.89619",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47602",
+    "latitude": "41.89626",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47585",
+    "latitude": "41.89632",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47581",
+    "latitude": "41.89634",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47576",
+    "latitude": "41.89635",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47571",
+    "latitude": "41.89636",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47569",
+    "latitude": "41.89637",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47567",
+    "latitude": "41.89637",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47563",
+    "latitude": "41.89638",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47552",
+    "latitude": "41.89639",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47523",
+    "latitude": "41.89642",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4747",
+    "latitude": "41.89648",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47462",
+    "latitude": "41.89649",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47449",
+    "latitude": "41.8965",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47449",
+    "latitude": "41.8965",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47452",
+    "latitude": "41.89658",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47457",
+    "latitude": "41.89674",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47461",
+    "latitude": "41.89686",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47462",
+    "latitude": "41.89688",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47461",
+    "latitude": "41.89696",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47461",
+    "latitude": "41.89696",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47499",
+    "latitude": "41.89698",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47509",
+    "latitude": "41.89699",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47508",
+    "latitude": "41.89791",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47508",
+    "latitude": "41.89791",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47441",
+    "latitude": "41.89788",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47436",
+    "latitude": "41.89788",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4741",
+    "latitude": "41.89787",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47409",
+    "latitude": "41.89787",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47409",
+    "latitude": "41.89787",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47408",
+    "latitude": "41.8979",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47408",
+    "latitude": "41.89792",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47405",
+    "latitude": "41.89815",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47405",
+    "latitude": "41.89815",
+    "next_bus_stop_id": "26",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47398",
+    "latitude": "41.89814",
+    "next_bus_stop_id": "26",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47398",
+    "latitude": "41.89814",
+    "next_bus_stop_id": "26",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47398",
+    "latitude": "41.89814",
+    "next_bus_stop_id": "26",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47398",
+    "latitude": "41.89816",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47395",
+    "latitude": "41.89838",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47395",
+    "latitude": "41.89842",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47389",
+    "latitude": "41.89892",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47389",
+    "latitude": "41.89894",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47387",
+    "latitude": "41.89915",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47385",
+    "latitude": "41.89932",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47385",
+    "latitude": "41.89935",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47386",
+    "latitude": "41.89939",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47386",
+    "latitude": "41.8994",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47387",
+    "latitude": "41.89941",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47387",
+    "latitude": "41.89942",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47388",
+    "latitude": "41.89944",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47388",
+    "latitude": "41.89945",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47389",
+    "latitude": "41.89947",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47389",
+    "latitude": "41.89949",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47389",
+    "latitude": "41.8995",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4739",
+    "latitude": "41.89962",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4739",
+    "latitude": "41.89966",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47389",
+    "latitude": "41.89971",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47389",
+    "latitude": "41.89975",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47388",
+    "latitude": "41.8998",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47385",
+    "latitude": "41.90001",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47384",
+    "latitude": "41.90004",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47384",
+    "latitude": "41.90008",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47383",
+    "latitude": "41.90022",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47383",
+    "latitude": "41.90022",
+    "next_bus_stop_id": "27",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47382",
+    "latitude": "41.90028",
+    "next_bus_stop_id": "27",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47382",
+    "latitude": "41.90028",
+    "next_bus_stop_id": "27",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47382",
+    "latitude": "41.90028",
+    "next_bus_stop_id": "27",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47382",
+    "latitude": "41.9003",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47382",
+    "latitude": "41.90033",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47381",
+    "latitude": "41.90037",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4738",
+    "latitude": "41.90039",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47378",
+    "latitude": "41.90041",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47377",
+    "latitude": "41.90042",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47375",
+    "latitude": "41.90043",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47372",
+    "latitude": "41.90044",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47369",
+    "latitude": "41.90045",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47365",
+    "latitude": "41.90045",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47361",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47347",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47341",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47335",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47328",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47317",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4731",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47297",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47283",
+    "latitude": "41.90045",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47278",
+    "latitude": "41.90045",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47275",
+    "latitude": "41.90045",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47272",
+    "latitude": "41.90045",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4727",
+    "latitude": "41.90045",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4727",
+    "latitude": "41.90045",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47268",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47268",
+    "latitude": "41.90046",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47267",
+    "latitude": "41.90047",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47266",
+    "latitude": "41.90048",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47265",
+    "latitude": "41.90049",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47264",
+    "latitude": "41.9005",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47246",
+    "latitude": "41.9008",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4724",
+    "latitude": "41.9009",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47233",
+    "latitude": "41.90101",
+    "next_bus_stop_id": "28",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47211",
+    "latitude": "41.90139",
+    "next_bus_stop_id": "28",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47211",
+    "latitude": "41.90139",
+    "next_bus_stop_id": "28",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47211",
+    "latitude": "41.90139",
+    "next_bus_stop_id": "28",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47209",
+    "latitude": "41.90141",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47204",
+    "latitude": "41.90153",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.472",
+    "latitude": "41.9016",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47193",
+    "latitude": "41.90171",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47184",
+    "latitude": "41.90185",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47181",
+    "latitude": "41.90186",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47178",
+    "latitude": "41.90187",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47178",
+    "latitude": "41.90187",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47173",
+    "latitude": "41.90194",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47173",
+    "latitude": "41.90194",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4717",
+    "latitude": "41.90199",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47168",
+    "latitude": "41.90202",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47167",
+    "latitude": "41.90205",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47167",
+    "latitude": "41.90208",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47166",
+    "latitude": "41.90212",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47166",
+    "latitude": "41.90212",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47187",
+    "latitude": "41.90219",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47199",
+    "latitude": "41.90224",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47199",
+    "latitude": "41.90224",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47217",
+    "latitude": "41.90231",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47233",
+    "latitude": "41.90237",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47248",
+    "latitude": "41.90244",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47269",
+    "latitude": "41.90253",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47302",
+    "latitude": "41.9027",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47316",
+    "latitude": "41.90276",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47329",
+    "latitude": "41.90284",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4734",
+    "latitude": "41.9029",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47352",
+    "latitude": "41.90298",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47361",
+    "latitude": "41.90304",
+    "next_bus_stop_id": "29",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47378",
+    "latitude": "41.90316",
+    "next_bus_stop_id": "29",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47378",
+    "latitude": "41.90316",
+    "next_bus_stop_id": "29",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47378",
+    "latitude": "41.90316",
+    "next_bus_stop_id": "29",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47381",
+    "latitude": "41.90318",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47385",
+    "latitude": "41.90321",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47392",
+    "latitude": "41.90326",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47399",
+    "latitude": "41.90332",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47405",
+    "latitude": "41.90337",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47412",
+    "latitude": "41.90344",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47424",
+    "latitude": "41.90357",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47439",
+    "latitude": "41.90374",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47452",
+    "latitude": "41.90391",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47464",
+    "latitude": "41.90408",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47474",
+    "latitude": "41.90423",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47478",
+    "latitude": "41.90428",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4748",
+    "latitude": "41.90433",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47486",
+    "latitude": "41.90443",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47493",
+    "latitude": "41.90457",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.475",
+    "latitude": "41.90473",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47503",
+    "latitude": "41.90478",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47505",
+    "latitude": "41.90484",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47507",
+    "latitude": "41.90488",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47508",
+    "latitude": "41.90492",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47508",
+    "latitude": "41.90492",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47493",
+    "latitude": "41.90494",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47483",
+    "latitude": "41.90495",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47365",
+    "latitude": "41.90503",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47361",
+    "latitude": "41.90503",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47351",
+    "latitude": "41.90504",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47334",
+    "latitude": "41.90504",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47334",
+    "latitude": "41.90504",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47324",
+    "latitude": "41.90505",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47318",
+    "latitude": "41.90506",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47277",
+    "latitude": "41.90509",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47261",
+    "latitude": "41.9051",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47206",
+    "latitude": "41.90515",
+    "next_bus_stop_id": "30",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47168",
+    "latitude": "41.90517",
+    "next_bus_stop_id": "30",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47168",
+    "latitude": "41.90517",
+    "next_bus_stop_id": "30",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47168",
+    "latitude": "41.90517",
+    "next_bus_stop_id": "30",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.47166",
+    "latitude": "41.90517",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47129",
+    "latitude": "41.90519",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47126",
+    "latitude": "41.90519",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47122",
+    "latitude": "41.9052",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47117",
+    "latitude": "41.90521",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47113",
+    "latitude": "41.90522",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47107",
+    "latitude": "41.90523",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47107",
+    "latitude": "41.90523",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47104",
+    "latitude": "41.90526",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47103",
+    "latitude": "41.90529",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47099",
+    "latitude": "41.90535",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47077",
+    "latitude": "41.90573",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47073",
+    "latitude": "41.90579",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47073",
+    "latitude": "41.90579",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47068",
+    "latitude": "41.90593",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47067",
+    "latitude": "41.90594",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47064",
+    "latitude": "41.90598",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47062",
+    "latitude": "41.90599",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4706",
+    "latitude": "41.90601",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47059",
+    "latitude": "41.90602",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47057",
+    "latitude": "41.90603",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47055",
+    "latitude": "41.90604",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47052",
+    "latitude": "41.90605",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47049",
+    "latitude": "41.90605",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47046",
+    "latitude": "41.90606",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47046",
+    "latitude": "41.90606",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47044",
+    "latitude": "41.90606",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47042",
+    "latitude": "41.90606",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4704",
+    "latitude": "41.90605",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47037",
+    "latitude": "41.90604",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.47034",
+    "latitude": "41.90603",
+    "next_bus_stop_id": "31",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46994",
+    "latitude": "41.90588",
+    "next_bus_stop_id": "31",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46994",
+    "latitude": "41.90588",
+    "next_bus_stop_id": "31",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46994",
+    "latitude": "41.90588",
+    "next_bus_stop_id": "31",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46993",
+    "latitude": "41.90587",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46979",
+    "latitude": "41.90583",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46965",
+    "latitude": "41.90578",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46957",
+    "latitude": "41.90575",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46949",
+    "latitude": "41.90573",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4694",
+    "latitude": "41.9057",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46938",
+    "latitude": "41.90569",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46888",
+    "latitude": "41.90552",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4686",
+    "latitude": "41.90543",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46858",
+    "latitude": "41.90542",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46855",
+    "latitude": "41.90542",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46851",
+    "latitude": "41.90542",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46847",
+    "latitude": "41.90541",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46844",
+    "latitude": "41.90541",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46841",
+    "latitude": "41.90541",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46837",
+    "latitude": "41.90541",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46825",
+    "latitude": "41.90542",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46786",
+    "latitude": "41.90544",
+    "next_bus_stop_id": "32",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46739",
+    "latitude": "41.90547",
+    "next_bus_stop_id": "32",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46739",
+    "latitude": "41.90547",
+    "next_bus_stop_id": "32",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46739",
+    "latitude": "41.90547",
+    "next_bus_stop_id": "32",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46737",
+    "latitude": "41.90548",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46725",
+    "latitude": "41.90548",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4667",
+    "latitude": "41.90552",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46635",
+    "latitude": "41.90554",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46612",
+    "latitude": "41.90556",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46594",
+    "latitude": "41.90557",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46538",
+    "latitude": "41.90562",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46478",
+    "latitude": "41.90566",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46469",
+    "latitude": "41.90566",
+    "next_bus_stop_id": "33",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46387",
+    "latitude": "41.90572",
+    "next_bus_stop_id": "33",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46387",
+    "latitude": "41.90572",
+    "next_bus_stop_id": "33",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46387",
+    "latitude": "41.90572",
+    "next_bus_stop_id": "33",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.46385",
+    "latitude": "41.90572",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46353",
+    "latitude": "41.90574",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46342",
+    "latitude": "41.90575",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46329",
+    "latitude": "41.90576",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46294",
+    "latitude": "41.90578",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46224",
+    "latitude": "41.90583",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46216",
+    "latitude": "41.90584",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4617",
+    "latitude": "41.90587",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46124",
+    "latitude": "41.90591",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46114",
+    "latitude": "41.90591",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.46021",
+    "latitude": "41.90598",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4601",
+    "latitude": "41.90599",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45989",
+    "latitude": "41.906",
+    "next_bus_stop_id": "34",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45911",
+    "latitude": "41.90605",
+    "next_bus_stop_id": "34",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45911",
+    "latitude": "41.90605",
+    "next_bus_stop_id": "34",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45911",
+    "latitude": "41.90605",
+    "next_bus_stop_id": "34",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.4591",
+    "latitude": "41.90605",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45902",
+    "latitude": "41.90606",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45899",
+    "latitude": "41.90606",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45891",
+    "latitude": "41.90606",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45891",
+    "latitude": "41.90606",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45896",
+    "latitude": "41.90643",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45896",
+    "latitude": "41.90643",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45884",
+    "latitude": "41.90644",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45881",
+    "latitude": "41.90644",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4588",
+    "latitude": "41.90644",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45792",
+    "latitude": "41.9065",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45782",
+    "latitude": "41.9065",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4578",
+    "latitude": "41.90651",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45768",
+    "latitude": "41.90651",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45733",
+    "latitude": "41.90654",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45687",
+    "latitude": "41.90657",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45683",
+    "latitude": "41.90657",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4568",
+    "latitude": "41.90656",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45678",
+    "latitude": "41.90655",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45677",
+    "latitude": "41.90654",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45676",
+    "latitude": "41.90651",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45674",
+    "latitude": "41.9064",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45673",
+    "latitude": "41.90637",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45672",
+    "latitude": "41.90634",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4567",
+    "latitude": "41.90632",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45668",
+    "latitude": "41.9063",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45666",
+    "latitude": "41.90628",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45663",
+    "latitude": "41.90627",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45661",
+    "latitude": "41.90627",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45661",
+    "latitude": "41.90627",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45657",
+    "latitude": "41.90626",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45651",
+    "latitude": "41.90626",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45645",
+    "latitude": "41.90626",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45638",
+    "latitude": "41.90626",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45634",
+    "latitude": "41.90626",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45629",
+    "latitude": "41.90626",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45621",
+    "latitude": "41.90627",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45615",
+    "latitude": "41.90628",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45607",
+    "latitude": "41.9063",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45602",
+    "latitude": "41.90632",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45597",
+    "latitude": "41.90633",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45593",
+    "latitude": "41.90635",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45592",
+    "latitude": "41.90636",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4559",
+    "latitude": "41.90637",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45589",
+    "latitude": "41.90638",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45587",
+    "latitude": "41.9064",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45586",
+    "latitude": "41.90643",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45585",
+    "latitude": "41.90646",
+    "next_bus_stop_id": "35",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45573",
+    "latitude": "41.90694",
+    "next_bus_stop_id": "35",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45573",
+    "latitude": "41.90694",
+    "next_bus_stop_id": "35",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45573",
+    "latitude": "41.90694",
+    "next_bus_stop_id": "35",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45573",
+    "latitude": "41.90696",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45567",
+    "latitude": "41.90722",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45567",
+    "latitude": "41.90722",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45559",
+    "latitude": "41.90755",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45557",
+    "latitude": "41.9076",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4555",
+    "latitude": "41.90793",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4554",
+    "latitude": "41.90833",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45533",
+    "latitude": "41.9086",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4553",
+    "latitude": "41.90872",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45528",
+    "latitude": "41.90882",
+    "next_bus_stop_id": "36",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45524",
+    "latitude": "41.90903",
+    "next_bus_stop_id": "36",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45524",
+    "latitude": "41.90903",
+    "next_bus_stop_id": "36",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45524",
+    "latitude": "41.90903",
+    "next_bus_stop_id": "36",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45523",
+    "latitude": "41.90905",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45511",
+    "latitude": "41.90956",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45511",
+    "latitude": "41.90956",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45498",
+    "latitude": "41.90953",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45419",
+    "latitude": "41.90935",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4541",
+    "latitude": "41.90939",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45386",
+    "latitude": "41.90994",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45383",
+    "latitude": "41.90996",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45382",
+    "latitude": "41.91001",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45382",
+    "latitude": "41.91005",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45382",
+    "latitude": "41.91008",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45381",
+    "latitude": "41.91015",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45381",
+    "latitude": "41.91015",
+    "next_bus_stop_id": "37",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45347",
+    "latitude": "41.91007",
+    "next_bus_stop_id": "37",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45347",
+    "latitude": "41.91007",
+    "next_bus_stop_id": "37",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45347",
+    "latitude": "41.91007",
+    "next_bus_stop_id": "37",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45344",
+    "latitude": "41.91006",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45311",
+    "latitude": "41.90998",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45303",
+    "latitude": "41.90996",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45262",
+    "latitude": "41.90986",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45262",
+    "latitude": "41.90986",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45265",
+    "latitude": "41.90979",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45265",
+    "latitude": "41.90979",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45244",
+    "latitude": "41.90974",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45206",
+    "latitude": "41.90964",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45199",
+    "latitude": "41.90963",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45189",
+    "latitude": "41.9096",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45177",
+    "latitude": "41.90958",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45097",
+    "latitude": "41.90937",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45013",
+    "latitude": "41.90913",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45015",
+    "latitude": "41.90908",
+    "next_bus_stop_id": "38",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4503",
+    "latitude": "41.90875",
+    "next_bus_stop_id": "38",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.4503",
+    "latitude": "41.90875",
+    "next_bus_stop_id": "38",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.4503",
+    "latitude": "41.90875",
+    "next_bus_stop_id": "38",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.45043",
+    "latitude": "41.90845",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.45047",
+    "latitude": "41.90837",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44933",
+    "latitude": "41.90808",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4493",
+    "latitude": "41.90807",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44923",
+    "latitude": "41.90806",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44923",
+    "latitude": "41.90806",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44936",
+    "latitude": "41.9079",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44955",
+    "latitude": "41.90767",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44958",
+    "latitude": "41.90763",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44961",
+    "latitude": "41.9076",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44968",
+    "latitude": "41.90751",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44968",
+    "latitude": "41.90744",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44968",
+    "latitude": "41.90739",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44967",
+    "latitude": "41.90736",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44966",
+    "latitude": "41.90733",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44964",
+    "latitude": "41.9073",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44961",
+    "latitude": "41.90727",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44959",
+    "latitude": "41.90725",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44947",
+    "latitude": "41.90712",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44942",
+    "latitude": "41.90707",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44937",
+    "latitude": "41.90702",
+    "next_bus_stop_id": "39",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44926",
+    "latitude": "41.9069",
+    "next_bus_stop_id": "39",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.44926",
+    "latitude": "41.9069",
+    "next_bus_stop_id": "39",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.44926",
+    "latitude": "41.9069",
+    "next_bus_stop_id": "39",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.44899",
+    "latitude": "41.90662",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44899",
+    "latitude": "41.90662",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44865",
+    "latitude": "41.90676",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44862",
+    "latitude": "41.90678",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44854",
+    "latitude": "41.90687",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44854",
+    "latitude": "41.90687",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44853",
+    "latitude": "41.90687",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4485",
+    "latitude": "41.90686",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.4485",
+    "latitude": "41.90686",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44817",
+    "latitude": "41.90723",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44817",
+    "latitude": "41.90723",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44812",
+    "latitude": "41.90725",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44808",
+    "latitude": "41.90727",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44804",
+    "latitude": "41.90727",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.448",
+    "latitude": "41.90726",
+    "next_bus_stop_id": "40",
+    "is_stop": "false"
+  },
+  {
+    "longitude": "12.44789",
+    "latitude": "41.90722",
+    "next_bus_stop_id": "40",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.44789",
+    "latitude": "41.90722",
+    "next_bus_stop_id": "40",
+    "is_stop": "true"
+  },
+  {
+    "longitude": "12.44789",
+    "latitude": "41.90722",
+    "next_bus_stop_id": "40",
+    "is_stop": "true"
+  }
+]

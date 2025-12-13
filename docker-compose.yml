@@ -1,0 +1,64 @@
+services:
+  db:
+    image: postgres:17.4
+    container_name: "mapdb"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_DB: busmap
+    ports:
+      - "5432:5432"
+
+  hub:
+    image: "map/hub"
+    build:
+      dockerfile: "hub/Dockerfile"
+    container_name: "hub"
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_USER: postgres
+      DB_NAME: busmap
+      DB_PASSWORD: mysecretpassword
+    ports:
+      - "9090:9090"
+    depends_on:
+      - db
+
+  reactivebackend:
+    image: "map/dispatch"
+    build:
+      dockerfile: "dispatch/Dockerfile"
+    container_name: "dispatch"
+    environment:
+      SPRING_R2DBC_URL: r2dbc:postgresql://db:5432/busmap
+      SPRING_R2DBC_USERNAME: postgres
+      SPRING_R2DBC_PASSWORD: mysecretpassword
+      DATABASE_HOST: db
+      DATABASE_NAME: busmap
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+      - hub
+
+  frontend:
+    image: "map/frontend"
+    build:
+      dockerfile: "frontend/Dockerfile"
+    container_name: "frontend"
+    ports:
+      - "80:80"
+    depends_on:
+      - hub
+      - reactivebackend
+
+  bus:
+    image: "map/bus"
+    build:
+      dockerfile: "bus/Dockerfile"
+    container_name: "bus"
+    depends_on:
+      - hub
+      - reactivebackend
+      - frontend
