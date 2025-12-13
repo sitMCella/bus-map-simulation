@@ -53,7 +53,7 @@ func main() {
 
 	waitForHub("http://hub:9090/hub/health", 20, 2*time.Second)
 
-	// Dev environment: url := "http://localhost:9090/bus/position"
+	// Dev environment: url := "http://localhost:9090/hub/bus/position"
 	url := "http://hub:9090/hub/bus/position"
 
 	for _, loc := range locations {

@@ -1,9 +1,9 @@
 import { useEffect, useState, useRef } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, CircleMarker } from 'react-leaflet';
 import L, { type LatLngTuple } from 'leaflet';
-import iconUrl from "leaflet/dist/images/marker-icon.png";
-import iconRetinaUrl from "leaflet/dist/images/marker-icon-2x.png";
-import shadowUrl from "leaflet/dist/images/marker-shadow.png";
+import iconUrl from 'leaflet/dist/images/marker-icon.png';
+import iconRetinaUrl from 'leaflet/dist/images/marker-icon-2x.png';
+import shadowUrl from 'leaflet/dist/images/marker-shadow.png';
 
 function BusMap() {
   interface BusPosition {
@@ -73,7 +73,7 @@ function BusMap() {
 
   const [busStopEntries, setBusStopEntries] = useState<BusStopDisplay[]>([]);
 
-  const [_busEntries, setBusEntries] = useState<Bus[]>([]);
+  const [_, setBusEntries] = useState<Bus[]>([]);
 
   const [busTimeTableEntries, setBusTimeTableEntries] = useState<BusTimeTableDisplay[]>([]);
 
@@ -87,7 +87,7 @@ function BusMap() {
     const headers = {
       Accepted: 'application/json',
     };
-    // Dev environment prefix with "http://localhost:9090"
+    // Dev environment prefix: "http://localhost:9090"
     const response = await fetch('/hub/bus_stop', {
       method: 'GET',
       headers,
@@ -109,7 +109,7 @@ function BusMap() {
     const headers = {
       Accepted: 'application/json',
     };
-    // Dev environment prefix with "http://localhost:9090"
+    // Dev environment prefix: "http://localhost:9090"
     const response = await fetch('/hub/bus', {
       method: 'GET',
       headers,
@@ -127,7 +127,7 @@ function BusMap() {
     const headers = {
       Accepted: 'application/json',
     };
-    // Dev environment prefix with "http://localhost:9090"
+    // Dev environment prefix: "http://localhost:9090"
     const response = await fetch('/hub/bus/' + busId + '/time_table', {
       method: 'GET',
       headers,
@@ -190,6 +190,16 @@ function BusMap() {
     return 0;
   };
 
+  const getBuStopName = (busPosition: BusPositionDisplay): string => {
+    const busStopEntry = busStopEntries.filter(
+      (be: BusStopDisplay) => busPosition.nextBusStopId === be.id,
+    );
+    if (busStopEntry.length > 0) {
+      return busStopEntry[0].name;
+    }
+    return busPosition.nextBusStopId;
+  };
+
   useEffect(() => {
     L.Icon.Default.mergeOptions({
       iconRetinaUrl,
@@ -199,6 +209,7 @@ function BusMap() {
 
     const controller = new AbortController();
     const signal = controller.signal;
+
     getBusStopEntries(signal)
       .then((busStopEntries: BusStopDisplay[]) => {
         getBusEntries(signal).then((busEntries: Bus[]) => {
@@ -220,12 +231,11 @@ function BusMap() {
         console.log('Cannot retrieve the Bus entries ' + err.message);
       });
 
-    // Dev environment: prefix with "http://localhost:8080"
+    // Dev environment: prefix: "http://localhost:8080"
     const busPositionEventSource = new EventSource('/api/bus/position');
     busPositionEventSource.onmessage = (event) => {
       if (event.data) {
         const busPosition: BusPosition = JSON.parse(event.data);
-        // console.log(busPosition)
         const busPositionDisplay: BusPositionDisplay = {
           ...busPosition,
           time: new Date(busPosition.creationtime).toLocaleTimeString(),
@@ -266,18 +276,18 @@ function BusMap() {
                 <b>Bus Stop:</b> {b.name}
               </div>
               <div className="popup-row">
-                <span>Latitude:</span>
-                <span>{b.latitude}</span>
+                <span className="label">Latitude:</span>
+                <span className="value">{b.latitude}</span>
               </div>
               <div className="popup-row">
-                <span>Longitude:</span>
-                <span> {b.longitude}</span>
+                <span className="label">Longitude:</span>
+                <span className="value"> {b.longitude}</span>
               </div>
               <div className="popup-row">
                 <table className="popup-table">
                   <thead>
                     <tr>
-                      <th>Line</th>
+                      <th>Bus Line</th>
                       <th>Time</th>
                       <th>Delay (sec)</th>
                     </tr>
@@ -306,16 +316,28 @@ function BusMap() {
                 <br />
               </div>
               <div className="popup-row">
-                <span>Time:</span>
-                <span>{b.time}</span>
+                <span className="label">Time:</span>
+                <span className="value">{b.time}</span>
               </div>
               <div className="popup-row">
-                <span>Next Stop:</span>
-                <span>{b.nextBusStopId}</span>
+                <span className="label">Latitude:</span>
+                <span className="value">{b.latitude}</span>
               </div>
               <div className="popup-row">
-                <span>Status:</span>
-                {b.isBusStop ? <span>Onboarding</span> : <span>Moving</span>}
+                <span className="label">Longitude:</span>
+                <span className="value">{b.longitude}</span>
+              </div>
+              <div className="popup-row">
+                <span className="label">Next Stop:</span>
+                <span className="value">{getBuStopName(b)}</span>
+              </div>
+              <div className="popup-row">
+                <span className="label">Status:</span>
+                {b.isBusStop ? (
+                  <span className="value">Onboarding</span>
+                ) : (
+                  <span className="value">Moving</span>
+                )}
               </div>
             </div>
           </Popup>
