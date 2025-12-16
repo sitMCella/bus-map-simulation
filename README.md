@@ -1,4 +1,4 @@
-# Bus Map Simulation Application
+# Bus Map Simulation
 
 <img src="https://github.com/sitMCella/bus-map-simulation/wiki/images/bus_simulation.png">
 
@@ -10,11 +10,11 @@
 
 ## Introduction
 
-The Bus Map Simulation application consists of a web application displaying a Leaflet map showing bus stops and the bus line positions in near real time.
+The Bus Map Simulation application consists of a web application that displays a Leaflet map showing bus stops and bus line positions in near real time.
 
-A Hub application provides the bus configurations to the frontend application, and receives the bus positions from a Bus application.
+A Hub application provides bus configuration data to the frontend application and receives bus position data from a Bus application.
 
-A dispatch application is used to send the bus positions as a data flow to the frontend application.
+A Dispatch application is used to send the bus position data as a data stream to the frontend application.
 
 Leaflet: https://leafletjs.com/
 OpenStreetMap: https://www.openstreetmap.org/
